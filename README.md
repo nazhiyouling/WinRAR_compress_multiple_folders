@@ -1,0 +1,2 @@
+# WinRAR_compress_multiple_folders
+WinRAR压缩Python脚本【复数文件夹版】
